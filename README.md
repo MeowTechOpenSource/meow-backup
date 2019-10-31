@@ -9,6 +9,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Remember to change .txt file
 /?///
-
+```markdown
 ## Updates
 in release 1.0 we will add setup file & exe!
