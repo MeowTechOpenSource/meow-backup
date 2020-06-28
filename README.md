@@ -1,9 +1,8 @@
-## Welcome to Meow Backup
-
-Please Change Your Harddisk ID In .txt file
-
-## Updates
-in release 1.0 we will add setup file & exe!
+## This Project Is Migrating To Power Tools(Coming Soon)
+The Meow Backup Base Code is now intergrating to Power Tools
+It Will be have more new features,Faster Backup.
+Online Update, Fast Install.
+The Gitlab Meow Backup Will Still Keeping Up But Meow Backup Will NOT Be Updated
 
 ## Download Latest Release:
 We Have Moved To Gitlab!
